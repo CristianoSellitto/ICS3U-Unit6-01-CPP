@@ -1,7 +1,7 @@
 // Copyright Cristiano 2022
 //
 // Created by Cristiano Sellitto
-// Created in <September> <2022>
+// Created in December 2022
 // A program that places ten random numbers
 // from 1 to 100 in an array and calculates the average
 
